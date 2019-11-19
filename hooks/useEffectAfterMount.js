@@ -1,5 +1,5 @@
 /**
- * Replicate componentDidUpdate.
+ * Use effect after component mount.
  *
  * @param {function} callback Function to run after update.
  * @param {array} dependencies Dependencies used in the effect.
